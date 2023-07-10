@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1093010592489",
+    "firebase_url": "https://myland-com-default-rtdb.firebaseio.com",
+    "project_id": "myland-com",
+    "storage_bucket": "myland-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093010592489:android:d49b2edbca8f0c1eed5678",
+        "android_client_info": {
+          "package_name": "com.example.mylandcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093010592489-1kapbtqussjb422p072bh7udrueg6rh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC50UJAcVV5fFTat_Y3svvmNSSBw_iWaOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093010592489-1kapbtqussjb422p072bh7udrueg6rh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

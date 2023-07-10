@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/product"
+    android:background="@color/white"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Product_uploading">
+
+    <ScrollView
+
+        android:id="@+id/scrollView4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="20dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_marginHorizontal="20dp"
+                android:layout_height="267dp"
+                android:layout_marginTop="15dp"
+                app:srcCompat="@drawable/image" />
+
+            <EditText
+                android:id="@+id/caption"
+                android:layout_width="285dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:ems="10"
+                android:hint="Caption"
+                android:inputType="textMultiLine" />
+
+            <EditText
+                android:id="@+id/details"
+                android:layout_width="285dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Details"
+                android:inputType="textMultiLine" />
+
+            <EditText
+                android:id="@+id/sq_feet"
+                android:layout_width="285dp"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Sq_feet"
+                android:inputType="number" />
+
+            <EditText
+                android:id="@+id/latTextView"
+                android:layout_width="285dp"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="12dp"
+                android:ems="10"
+                android:hint="Latitude"
+                android:inputType="numberDecimal" />
+
+            <EditText
+                android:id="@+id/lonTextView"
+                android:layout_width="285dp"
+                android:layout_height="58dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginTop="24dp"
+                android:ems="10"
+                android:hint="Longitude"
+                android:inputType="numberDecimal" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginBottom="20dp"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/checkBox"
+                    android:layout_width="65dp"
+                    android:layout_height="44dp"
+                    android:text="GET"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:layout_editor_absoluteY="523dp" />
+
+                <Button
+                    android:id="@+id/view_loc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="133dp"
+                    android:text="VIEW" />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/Post"
+                    android:layout_width="130dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/rounded_corners"
+                    android:text="POST" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

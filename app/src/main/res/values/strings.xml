@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MyLand.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="my_account">
+        <item>Terms and Conditions</item>
+        <item>Who we are</item>
+        <item>Customer Care</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="img1">Harry Potter and the Philosophers Stone (released in the United States, India and the Philippines as Harry Potter and the Sorcerers Stone) is a 2001 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures, based on J. K. Rowling\'s 1997 novel of the same name. Produced by David and written by Steve  it is the first instalment of the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert as Ron Weasley, and Emma Watson as Hermione Granger.Warner Bros. bought the film rights to the book in 1999 for a reported £1 million ($1.65 million). Production began in the United Kingdom in 2000, with Chris Columbus being chosen to create the film from a short list of directors that included Steven Spielberg and Rob Reiner. Rowling insisted that the entire cast be British and Irish, with the three leads chosen in August 2000 following open casting calls. The film was shot at Film Studios and historic buildings around the United Kingdom, from September 2000 to March 2001.The film was released to cinemas in the United Kingdom and Ireland on 10 and 11 November 2001 for two days of previews. It opened on 16 November in the United States, Canada and Taiwan as well as officially in the United Kingdom and Ireland. It became a critical and commercial success, grossing $974 million at the box office worldwide during its initial run, and over $1 billion with subsequent re-releases. It became the highest-grossing film of 2001 and the second-highest-grossing film at the time. The film was nominated for many awards, including Academy Awards for Best Original Score, Best Art Direction and Best Costume Design. It was followed by seven sequels, beginning with Harry Potter and the Chamber of Secrets in 2002 and ending with Harry Potter and the Deathly Hallows – Part 2 in 2011.</string>
+    <string name="img2">Harry Potter and the Philosophers Stone (released in the United States, India and the Philippines as Harry Potter and the Sorcerers Stone) is a 2001 fantasy film directed by Chris Columbus and distributed by Warner Bros. Pictures, based on J. K. Rowling\'s 1997 novel of the same name. Produced by David and written by Steve  it is the first instalment of the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert as Ron Weasley, and Emma Watson as Hermione Granger.Warner Bros. bought the film rights to the book in 1999 for a reported £1 million ($1.65 million). Production began in the United Kingdom in 2000, with Chris Columbus being chosen to create the film from a short list of directors that included Steven Spielberg and Rob Reiner. Rowling insisted that the entire cast be British and Irish, with the three leads chosen in August 2000 following open casting calls. The film was shot at Film Studios and historic buildings around the United Kingdom, from September 2000 to March 2001.The film was released to cinemas in the United Kingdom and Ireland on 10 and 11 November 2001 for two days of previews. It opened on 16 November in the United States, Canada and Taiwan as well as officially in the United Kingdom and Ireland. It became a critical and commercial success, grossing $974 million at the box office worldwide during its initial run, and over $1 billion with subsequent re-releases. It became the highest-grossing film of 2001 and the second-highest-grossing film at the time. The film was nominated for many awards, including Academy Awards for Best Original Score, Best Art Direction and Best Costume Design. It was followed by seven sequels, beginning with Harry Potter and the Chamber of Secrets in 2002 and ending with Harry Potter and the Deathly Hallows – Part 2 in 2011.</string>
+    <string name="signout">signout</string>
+    <string name="Myprofile">My Profile</string>
+    <string name="Username">Username</string>
+    <string name="Name">First Name</string>
+    <string name="SName">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="Gender">Gender</string>
+    <string name="Phone">Phone</string>
+    <string name="Bio">Bio</string>
+    <string name="terms">TERMS AND CONDITIONS
+
+This website 99acres.com , including any subdomains thereof, and any other websites through which its services are made available, our mobile, tablet and other smart device applications, and application program interfaces etc, , (hereinafter collectively referred to as "99acres") is owned, hosted and operated by Info Edge (India) Ltd (hereinafter referred to as IEIL), a company incorporated in India under the Companies Act, 1956 and having its registered office at Ground Floor, GF-12A, 94, Meghdoot, Nehru Place, New Delhi - 110 020. These terms and conditions, privacy policy and community guidelines regulating use of these Services constitute a legally binding agreement between 99acres and the User (the “Agreement”).
+
+99acres and/or any other website(s) linked to this website is an online information and communications service provided to you, subject to your compliance with the terms and conditions set forth below.
+
+PLEASE READ THIS DOCUMENT CAREFULLY. BY ACCESSING OR USING 99acres, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS SET FORTH BELOW. IF YOU DO NOT AGREE WITH ANY OF THESE TERMS AND CONDITIONS, YOU SHOULD NOT ACCESS OR USE 99acres. IF YOU HAVE ANY QUESTIONS ABOUT THESE TERMS, PLEASE CONTACT ( legal@99acres.com )
+
+IEIL may amend/modify these terms and conditions at any time, and such modifications shall be effective immediately upon posting of the modified terms and conditions on 99acres. You may review the modified terms and conditions periodically to be aware of such modifications and your continued access or use of 99acres, shall be deemed conclusive proof of your acceptance of these terms and conditions, as amended/modified from time to time. IEIL may also suspend the operation of 99acres for support or technical upgradation, maintenance work, in order to update the content or for any other reason.
+
+If you utilize 99acres in a manner inconsistent with these terms and conditions, IEIL may terminate your access, block your future access and/or seek such additional relief as the circumstances of your misuse may be deemed to be fit and proper.
+
+DEFINITIONS
+
+The term Subscriber would include any person, whether an individual or a legal entity who has subscribed to the Services of 99acres (whether on a paid or free basis), and to whom the access to 99acres is restricted by the use of a sign in user name and a password. The user name and password are either allotted by 99acres or chosen by the Subscriber or agreed upon by 99acres. It is made abundantly clear that only the authorized User has the right to access the Services so offered by 99acres.
+
+The term Browser/Visitor will mean and include a person who utilizes any of the Services offered by 99acres, without the need or a requirement to create an account i.e. visits non-restricted portions of 99acres.
+
+The use and access to 99acres shall be subject to these terms and conditions and community guidelines. For the purposes of this Agreement, any person who does not have a legal or a contractual right to access the Services, but does so, will fall within the definition of an unauthorized user and will nevertheless be subject to the terms and conditions regulating the usage of 99acres, and expressly so with respect to respecting the intellectual property rights of the IEIL, and abiding by terms and conditions below mentioned.
+
+The terms  would include both the Subscriber/Advertiser(s) and Browser/Visitor(s)
+
+The terms  would mean to include the interactive online information service offered by 99acres on the internet through which the user may access information carried by 99acres in the database maintained by it. The terms would also include to mean the search tools through which the User can search through the hosted databases and information using a number of search tools that are present with a selection matching their search criteria. The term would also include services by way of space used by customers for advertisements such as listings and banners. Users then select one or more of the items presented to view the full document/ record. The term Service does not extend to 99acres acting as an agent either express or implied on behalf of any User/Customer and is merely acting as a medium of information exchange.
+
+The term RERDA shall mean and include the Real Estate (Regulation and Development) Act, 2016 (http://mhupa.gov.in/User_Panel/UserView.aspx?TypeID=1535) as amended read with any rules or regulations that might be framed thereunder.
+
+SUBMISSION AND ADMINISTRATION OF LISTINGS/ADVERTISEMENTS
+User agrees not to submit any property descriptions, photographs, financial, contact or other information contained in each propertys data to 99acres unless the User submitting such a Listing/Advertisement has acquired and received all necessary rights and authorizations from the owner of such property or the power-of-attorney holder, including from the photographer and/or copyright owner of any photographs, to publish and advertise the said Property(s)
+JURISDICTION
+Courts at New Delhi, India alone shall have the exclusive jurisdiction in all matters relating to 99acres and these terms and conditions, irrespective of the territory and jurisdiction of your access to 99acres.
+
+IEIL does not routinely monitor your postings to the web site but reserves the right to do so. However, if IEIL becomes aware of an inappropriate use of 99acres or any of its Services, IEIL will respond in any way that, in its sole discretion, IEIL deems appropriate. You acknowledge that IEIL will have the right to report to law enforcement authorities any actions that may be considered illegal, as well as any information it receives of such illegal conduct. When requested, IEIL will co-operate fully with law enforcement agencies in any investigation of alleged illegal activity on the Internet.
+
+IEIL reserves all other rights.
+
+GRIEVANCES
+In case you have any complaints and/or grievances in relation to any grievances, you can send your complaints via our grievance portal located at:
+
+https://www.99acres.com/load/Company/grievances?lstAcn=TFTR
+
+AMENDMENT
+
+Please report any violations of these terms and conditions to IEIL at legal@99acres.com
+
+Effective from: 25th March 2021</string>
+
+
+</resources>
